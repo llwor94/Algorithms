@@ -2,8 +2,14 @@
 
 import sys
 
+def permutate(options, n):
+  count = 
+
+
 def rock_paper_scissors(n):
-  pass 
+  options = ['rock', 'paper', 'scissors']
+
+
 
 
 if __name__ == "__main__":
